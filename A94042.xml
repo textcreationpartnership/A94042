@@ -1,0 +1,387 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Secret reasons of state in reference to the affairs of these nations, at the interruption of this present Parliament: anno 1653. discovered. Also, the power of parliaments, touching imprisonment, debated. With other matters worthy of observation, in Jo: Streater's case: this being a narrative of his two years troubles at the beginning of the late monarchie, erected by General Cromwel.</title>
+            <author>Streater, John, fl. 1650-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94042</idno>
+            <idno type="STC">Wing S5949</idno>
+            <idno type="STC">Thomason E983_24</idno>
+            <idno type="STC">ESTC R203671</idno>
+            <idno type="EEBO-CITATION">99863541</idno>
+            <idno type="PROQUEST">99863541</idno>
+            <idno type="VID">168584</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94042)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168584)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 146:E983[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Secret reasons of state in reference to the affairs of these nations, at the interruption of this present Parliament: anno 1653. discovered. Also, the power of parliaments, touching imprisonment, debated. With other matters worthy of observation, in Jo: Streater's case: this being a narrative of his two years troubles at the beginning of the late monarchie, erected by General Cromwel.</title>
+                  <author>Streater, John, fl. 1650-1670.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed MDCLIX. [1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Published anonymously. By John Streater.</note>
+                  <note>Annotation on Thomason copy: "May 23"; "May 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Streater, John, fl. 1650-1670.</term>
+               <term>Due process of law --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168584:1" rendition="simple:additions"/>
+            <p>Secret Reaſons OF STATE In Reference To the Affairs of theſe Nations, At the Interruption of this preſent PARLIAMENT: <hi>Anno</hi> 1653. Diſcovered.</p>
+            <p>
+               <hi>ALSO,</hi> The Power of PARLIAMENTS, touching Impriſonment, Debated.</p>
+            <p>With other Matters worthy of Obſervation, in <hi>JO: STREATER</hi>'s Caſe: This being a <hi>Narrative</hi> of His two Years Troubles at the beginning of the late <hi>Monarchie,</hi> erected by General <hi>CROMWEL.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed MDCLIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="2" facs="tcp:168584:2"/>
+            <head>A <hi>Narrative</hi> of the Caſe of <hi>John Streater,</hi> ſometime Quarter<g ref="char:EOLhyphen"/>maſter-General of the Foot-for<g ref="char:EOLhyphen"/>ces of this <hi>Common-wealth</hi> in <hi>I<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eland.</hi>
+            </head>
+            <p>THe ſaid <hi>J. S.</hi> having for three years, from 1650, to 1653, ſerved the <hi>Commonwealth</hi> in the afore<g ref="char:EOLhyphen"/>ſaid Capacity, and alſo as Engineer did con<g ref="char:EOLhyphen"/>ſiderable Service at the taking in of Towns, Forts, and Caſtles, as well as fortifying for defence; The War being ended, he obtained Leave of his Excellency the then Lord Deputy <hi>Fleetwood</hi> to come into <hi>England,</hi> where he arrived about the beginning of <hi>April,</hi> 1653: On the 20th following, the Lord General <hi>Cromwell</hi> did interrupt this preſent Parliament in the diſcharge of their Duty in their Supream Truſt: The which Action of his did much aſtoniſh and amaze <hi>J. S.</hi> ſo that he con<g ref="char:EOLhyphen"/>cluded from the action it ſelf, it being of ſo high a nature, together with many other circumſtances he had obſer<g ref="char:EOLhyphen"/>ved, That the General intended nothing leſſe then ma<g ref="char:EOLhyphen"/>king himſelf abſolute Lord of his Country, contrary to his Promiſes, Duty, and Truſt. In the morning before he went to the Houſe to act that Tragedy, he made a <hi>Speech</hi> at the <hi>Cock-Pit</hi> to all the Officers, in ſubſtance thus, <hi>That the hand of God had Eminently gone along with the Amy in various and Improbable Succeſses; that now they had no in viſible Enemies in Arms, Therefore it did behove them to perſevere in the Work of Reformation; that Reformation could not be ex<g ref="char:EOLhyphen"/>pected from the preſent Parliament: and that if they ſhould put
+<pb n="3" facs="tcp:168584:2"/>the People to Elect a New Parliament, it would but tempt God. Therefore his Opinion was, That God did intend to ſave and deliver this Nation by Few; and that Five or Six men, or few more, ſetting themſelves to the Work, might do more in one day, then the Parliament had or would do in one hundred days, for ought he could perceive: For</hi> (ſaith, he) <hi>the burdens are continued ſtill on the People, Injuſtice aboundeth, the Law is not Regulated; they intend nothing but to ſeek themſelves, and to perpetuate themſelves to the great hurt and danger of the Nation: therefore he thought that the Nation might be better ſettled by a Certain Number of unbiaſsed men, who ſhould give more Content to the Nation and the People of God, then the preſent Parliament.</hi> After he had ended his Speech, he went immediately to the Houſe, and Interrupted their Sitting: He Returns back, acquainted the Officers what he had done; That he had turned our the Members out of the Houſe: and withall told them, <hi>Now they muſt go hand in hand with him, and justifie what was done to the utmoſt hazard of all.</hi> He alſo told them, <hi>That when he went into the Houſe, he intended not to do it; but the Spirit was ſo upon him, that he was over ruled by it: and he conſulted not with Fleſh and blood at all, nor did premeditate the doing thereof; he ſeeing the Parliament deſigning to ſpin an Everlaſting Thred.</hi>
+            </p>
+            <p>Upon, the Conſideration of all which, together with the Credible Information that the ſaid <hi>J. S.</hi> recei<g ref="char:EOLhyphen"/>ved, that the Parliament was at that time in Conſulta<g ref="char:EOLhyphen"/>tion about the putting a period to their ſitting; and alſo providing for a Succeſſion of Parliaments, with ſuch qualifications as might be the beſt means to preſerve the Intereſt of the Nation, by Governing it as a Common<g ref="char:EOLhyphen"/>wealth or Free-State; he did thereupon conclude, that Gen. <hi>Cromwell</hi> ſaw he ſhould be thereby prevented to at<g ref="char:EOLhyphen"/>tempt the Supremacy, and alſo be reduced to a private capacity, unto the which he could not with ſafety Re<g ref="char:EOLhyphen"/>turn:
+<pb n="3" facs="tcp:168584:3"/>for it were not to be Imagined, that they would Diſſolve, and leave the ſole Command of the Arms of the <hi>Common-wealth</hi> in his hands; a Truſt too great for any Mortal: This <hi>J. S.</hi> did apprehend was the principall Reaſon why he interrupted their Sitting; if this was not the Reaſon: But on the contrary he did do it, with an Intention to redeem the Nation out of their hands, they Intending to make their Government perpetual: Can any man conceive, that he could with ſafety ſuffer any to be above him? or that he would not be neceſſitated to preſerve himſelf by keeping uppermoſt; when he judged the People not fit to be Truſted with their own Liberty? Who ſhould he Truſt then? Did not he Intend, what at laſt did notoriouſly appear in his making himſelf a Mo<g ref="char:EOLhyphen"/>narch, Exerciſing a more abſolute power then any Kings that went before; nay more then the late King, whom he, amongſt divers, Condemned to be beheaded for a Tyrant.</p>
+            <p>The which <hi>J. S.</hi> did foreſee would come to paſſe; for<g ref="char:EOLhyphen"/>as much as he aſſumed Abſolute power to diſ-inveſt the People of their Liberties. Upon the Conſideration of All which, on the ſame day, the General being preſent, <hi>J. S,</hi> publiſhed and diſperſed amongſt the Officers of the Army <hi>Ten Queries,</hi> which partly reſpected his Speech aforementioned, as well as his Fears of future Events. Which Queries are here recited, they being the Firſt Ground of his deplorable Troubles.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="queries">
+                        <head>Ten Queries.</head>
+                        <p n="1">1. WHether or no, God will not be more tempted by Illegal changing, and forcing a People to ſubmit to an unknown Government, (in which they can
+<pb n="5" facs="tcp:168584:3"/>have no ſecurity) than He would be, if that the <hi>Common<g ref="char:EOLhyphen"/>wealth</hi> be engaged to elect a new Repreſentative accord<g ref="char:EOLhyphen"/>ing to their undeniable Rights?</p>
+                        <p n="2">2. Whether there be not as much Safety by chuſing a Repreſentative, as committing the Supream Authority to five, ſix, or more; when it is viſible, that the Army muſt ſtand by to poize the affairs of the whole Nation? It is to be granted, that the Army may with more caſe and ſafety change a new-elected Parliament, then diſ<g ref="char:EOLhyphen"/>ſolve this, in regard they are wound into an Intereſt.</p>
+                        <p n="3">3. Whether that the faith of any four or five, or more, be a ſuffi<g ref="char:EOLhyphen"/>cient ſecurity to the intereſt of the Publike?</p>
+                        <p n="4">4. Whether or no, that conſtituting of a Supream Authority by an Army, be not the converting of the Authority into the hands of one perſon, in as much as all are under a Diſcipline? Whether this be not next door to Monarchy?</p>
+                        <p n="5">5. Whether or no it doth behove ſuch as muſt own ſo high proceedings as the Change of Government, to endeavour to ſee into the bottom, leſt there ſhould be a preparation to Abſolute<g ref="char:EOLhyphen"/>neſs and Tyranny?</p>
+                        <p n="6">6. Whether it be fit to truſt a number, of men becauſe ſo and ſo qualified to appearance; when it hath been frequently known that many have pretended much to Vertue and Unbyaſs'dneſs, but when they have once obtained Government, they have proved wicked Tyrants?</p>
+                        <p n="7">7. What is to be underſtood by <hi>the People of God,</hi> ſince there is of the people of God amongſt Anabaptiſts, Independents<g ref="char:punc">▪</g> Presby<g ref="char:EOLhyphen"/>terians, and others? And all of theſe being Judges of their own cauſes, judge themſelves to be the people of God: Whether then it be not a Faction to ſide with any one Society in oppoſition of another?</p>
+                        <p n="8">8. Whether that a new Parliament called to ſit ſix monet hs would not be greater ſecurity to the Publike intereſt, then a num<g ref="char:EOLhyphen"/>ber of men that either have no limitation as to time, nor other<g ref="char:EOLhyphen"/>wiſe, but what they receive from an Army; by conſequence, from one Perſon? And there is no one perſon under Heaven, but is ſwayed by Affection.</p>
+                        <p n="9">9. Whether or no, is the giving of the Supreim Power into the
+<pb n="6" facs="tcp:168584:4"/>hands of five, or ſix, or more, ſuch a thing as the Government of a <hi>Common Wealth,</hi> when the <hi>Common-Wealth</hi> is excluded from the liberty of making a choice of perſons to govern?</p>
+                        <p n="10">10. Whether it be not a curſed Principle, to ſide with a Party in a Change of Government, to no other end then in having a ſhare of it, or to obtain a ſhare of their favour that ſhall govern?</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Theſe Queries <hi>J. S.</hi> did not publiſh to any but the Officers, who in the late Change did acknowledge themſelves concerned in a great meaſure to reſpect the Particulars therein contained: and (under correction) <hi>J. S.</hi> thought it had been their Duty to have minded it upon the delivery of them: but it was not the Will of God they ſhould: (but now it is demonſtrable, that it was for good that then they ſhould not; for thereby they have been taught an excellent Leſſon, Not to truſt to Men, but rather to good Con<g ref="char:EOLhyphen"/>ſtitutions, and good Lawes;) This is mentioned, to Evince, That <hi>J.S.</hi> did not write or publiſh them out of a Factious or Turbulent mind, but as his Duty, as a Member of the Army, unto whoſe Con<g ref="char:EOLhyphen"/>ſideration he nnely Referred them: For the which he was com<g ref="char:EOLhyphen"/>mitted to the Marſhall-General, and was brought before a Court-Martial; they paſs this Sentence, That they judged him not fit to bear Office in the Army of <hi>England, Ireland,</hi> or <hi>Scotland;</hi> and im<g ref="char:EOLhyphen"/>mediately diſcharged him. After about the ſpace of ſix weeks, he was apprehended for writing, printing, and publishing of a Book entituled, <hi>The Grand Politick Informer,</hi> the ſubſtance thereof was to this purpoſe, <hi>viz.</hi> the ſetting forth the danger of Truſting the Arms of a <hi>Common-Wealth</hi> in the hands of a ſingle Perſon; the beſt means to prevent a Tyranny, and to preſerve a people free; as alſo the Aſſerting the Politicall Rules, for gaining the Arms out of the hands of a Tyrant, by which he aweth a People: alſo Rules to hold the People to obedience by Juſtice, without the uſe of Arms, and the like. For this was <hi>J. S.</hi> by an Order of the Councel of the Little Aſſembly committed firſt ſix weeks to the Cuſtody of <hi>Hum<g ref="char:EOLhyphen"/>phrey Holding</hi> then a Meſſenger: afterwards on the 12th <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay of September, 1653, he was committed to the <hi>Gate-houſe</hi> by vertue of this Warrant.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="orders">
+                        <p>
+                           <hi>Theſe are to will and require you to take the body of</hi> John Streater, <hi>and him you ſhall ſafely keep priſoner in your Priſon of the</hi> Gate<g ref="char:EOLhyphen"/>houſe; <hi>he being committed for pdbliſhing of Seditious Pamphlets againſt the State. Of which you are not to fail. And for ſo doing,
+<pb n="7" facs="tcp:168584:4"/>this ſhall be your ſufficient Warrant.</hi>
+                        </p>
+                        <closer>
+                           <dateline>
+                              <hi>Given at the Councel of State, ſitting at Whitehall,</hi> 
+                              <date>
+                                 <hi>the 12th day of Septemb.</hi> 1653.</date>
+                           </dateline>
+                           <signed>Ch. Howard, S. Mover, Rob. Titchburn <hi>Preſid.</hi> R. Lawrence, J. Hewſon.</signed>
+                        </closer>
+                        <trailer>To the Keeper of the Gatehouſe.</trailer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>In which priſon he lay until the beginning of Michaelmas Terme: at which time, by Councel, he moved Judge <hi>Roles</hi> by a <hi>Habeas Corpus;</hi> it being granted, he was brought before the Judges on the 23 of <hi>Novemb.</hi> 1653. being brought to the Bar, and turn<g ref="char:EOLhyphen"/>ed over to the Uppet Bench priſon, he had 5 Counſellors at Law attending the Cauſe, upon which there was learned Arguments urged for the deliverance of the Priſoner, who was detained con<g ref="char:EOLhyphen"/>trary to Law, for that the Warrant did nor ſhew cauſe, but in ge<g ref="char:EOLhyphen"/>neral termes, which was not good in Law; but the enemies of Juſtice procured an Order of the then ſetting little Cconvention as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="orders">
+                        <p>
+                           <hi>By vertue of an Order of Parliament, bearing date this preſent</hi> 21 <hi>day of</hi> November, <hi>Theſe are to will and require you, to receive and take into your cuſtody the body of</hi> John Streater, <hi>and him to keep and retain in ſafe cuſtody, until he ſhall be delivered by Order of Parlia<g ref="char:EOLhyphen"/>ment. Whereof you are not to fail, as you will anſwer the contrary at your peril.</hi>
+                        </p>
+                        <closer>
+                           <dateline>
+                              <hi>Given under my hand</hi> 
+                              <date>
+                                 <hi>this</hi> 21 <hi>of</hi> Novemb. 1653.</date>
+                           </dateline>
+                           <signed>Francis Rous <hi>Speaker.</hi>
+                           </signed>
+                        </closer>
+                        <trailer>To the Keeeper of the Gatehouſe <hi>Weſtminſter.</hi>
+                        </trailer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Whoſe Authority was alleadged to be ſuperior to the Judges: therefore after 7 times appearing at the Bar, he was remanded to the Gate-houſe: at which time the high Court of Juſtice was ſet up to try the priſoner; but it fell, by the late <hi>Protectors</hi> diſſoliving the ſaid little Aſſembly.</p>
+            <p>Now for that the Argument of the priſoner is of ſo great uſe, it being delivered by him with an Audible voice at the Bar, it ſhall be here inſerted as it was taken in ſhort hand, and after print<g ref="char:EOLhyphen"/>ed in his Tryal at large.</p>
+            <div type="reply">
+               <head>Mr. <hi>John Streater</hi>'s Argument to the ſecond part of the Return.</head>
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>AS to the ſecond part of the Return, that mentioneth an Or<g ref="char:EOLhyphen"/>der of Parliament; I make this Exception, <hi>That it doth not mention any cauſe at all of my impriſonment.</hi> And ſeeing it doth not
+<pb n="8" facs="tcp:168584:5"/>ſhew cauſe, it is of leſſe ſtrength then the former part of the Re<g ref="char:EOLhyphen"/>turn; wherein is cauſe ſhewn, though not a lawful cauſe.</p>
+               <p>And therefore there may be no more, but only the bare reading of it, to ſhew the inſufficiency of that part of the Return.</p>
+               <p>But here, if it ſhould be objected that <hi>it is grounded upon an Or<g ref="char:EOLhyphen"/>der of Parliament, and that the Parliament are not bound to ſhew a cauſe:</hi>
+               </p>
+               <p>Truly I am of opinion, that the Parl. would not own any one that ſhould ſo argue; it being ſo perfectly repugnant to their Ho<g ref="char:EOLhyphen"/>nour, it being condemned in Parl. within our memory, as unjuſt, illegal, unreaſonable, and perfectly contrary to Law: and Law is the only Scepter of Senates, Parliaments, Councels, Empires, Kings, Princes, Governours and Magiſtrates.</p>
+               <p>The late Parliament in their Declaration conſtituting <hi>Eng<g ref="char:EOLhyphen"/>land</hi> a Free State, (<hi>March</hi> 1648.) ſay, that <hi>their only Authori<g ref="char:EOLhyphen"/>ty is by the Law.</hi>
+               </p>
+               <p>Again, they ſay, that they are ſerſible of the <hi>excellenty and equality of the Law of</hi> England. Alſo, that they ſhall uphold true approved Rules of the Law of <hi>England.</hi> And that the good old Laws and Courts of Juſtice, and the cuſtom of <hi>England,</hi> are the badges of our Freedom, Rights, and Priviledges.</p>
+               <p>And this Parliament hath declared, that they will be tender of our Rights and Priviledges. The which we enjoy by our Laws.</p>
+               <p>29 Chap. Magna Charta. <hi>None ſhall be taken or impriſoned but by a legal proceeding according to the old Law of the Land.</hi>
+               </p>
+               <p>The words <hi>None ſhall be taken,</hi> imply, that none ſhall take or impriſon any contrary to Law.</p>
+               <p>And it cannot be denied, but the Law intendeth the protection of innocent perſons in freedom: And there being no cauſe ſhewn in the Return, let the command come from whence it will, the Law will warrant a diſcharge.</p>
+               <p>If it be by an Order of Parl. if the Order ſhew not cauſe of im<g ref="char:EOLhyphen"/>priſonment, not a cauſe only, but a lawful cauſe.</p>
+               <p>Parliaments ever made Laws, but the Judges of the Law judg<g ref="char:EOLhyphen"/>ed by thoſe Law.</p>
+               <p>Who will queſtion, but that the Warrant of a Juſtice of Peace, ſhewing lawful cauſe of impriſonment, is of greater force in Law, then an Order of Parl. ſhewing no cauſe of impriſonment?</p>
+               <p>But, my Lord, the Parl. is here; it is their Authority that I ap<g ref="char:EOLhyphen"/>ply,
+<pb n="9" facs="tcp:168584:5"/>my ſelf unto: there is nothing can be done her e but by their Authority, that is to ſay, the Law.</p>
+               <p>And therefore the Law, and ſeveral Acts of Parl. as that of the 17th of the late King, and divers others, ſay that I ſhall be diſ<g ref="char:EOLhyphen"/>charged.</p>
+               <p>Shall an Order of Parl. over rule Laws, Statutes, Cuſtoms, U<g ref="char:EOLhyphen"/>ſages, and Reaſon?</p>
+               <p>No, my Lord, doubtleſs the Parliaments intention in ordering that I ſhall not be delivered but by Order of Parl. is, that I ſhould be delivered by order of Law, as I here expect now, and do not queſtion in the leaſt</p>
+               <p>Order of Law may be reckoned as the comlieſt of all the Parlia<g ref="char:EOLhyphen"/>ments Orders.</p>
+               <p>Surely none will alleadge that the Parl. intendeth to ſtop the proceedings of Law that may relieve me, or that this Order of Parl. is ſuperiour to Authority of Parl. that is judicially in this Court.</p>
+               <p>My Lord, the inferiour muſt give way to the ſuperiour. The ſame reaſon that the Commons in Parl. of the 4th of the late King, judged of the invalidity of the Record in <hi>James Domeſtris</hi> and <hi>Caeſar</hi>'s Caſe, for that it was not <hi>argued</hi> or <hi>debated,</hi> it was not of weight to be a ſufficient Record; the ſame reaſon, I ſay, may be given for an Order of Parl. not to be in force againſt an Act of Parliament.</p>
+               <p>An Order of Parl. hath but the ſame proportion with an Act of Parl. that a Verbal command hath with a command by Record; for that there are not the debates, deliberations and three times of reading of an Order of Parliament, as is at the eſtabliſhing an Act of Parliament.</p>
+               <p>My Lord, beſides any rational man will think that the wiſdom and prudence of the Parl. is ſuch, that they will not lay up ſuch a portion for their ſucceſſors and children, as a Record that ſhall be a Law or Preſident to after-ages ſhat ſhall be in effect, <hi>That</hi> J. S. <hi>was remanded to priſon, by the vertue of an Order of Parl. when no cauſe is ſhewn in the one part of the Return, nor lawful cauſe in the other.</hi>
+               </p>
+               <p>When the Supreme Authority of Parl. the Law, and Acts of Parl. that contain Law, ſay expreſly, that <hi>if no cauſe</hi> (or lawful cauſe) <hi>be ſhewn in the Return for impriſonment, that thou the priſo<g ref="char:EOLhyphen"/>ner ſhall be ſet at liberty.</hi>
+               </p>
+               <pb n="10" facs="tcp:168584:6"/>
+               <p>And <hi>Anno</hi> 20. <hi>Edw.</hi> 3. <hi>chap.</hi> 1. That <hi>if Commands come to the contrary, the Judges ſhall not ceaſe to do even Law and Right.</hi>
+               </p>
+               <p>Beſides, Sir <hi>Edw. Cook</hi> 4 part Inſtit. chap. 10. <hi>High Court of Parliament,</hi> intimateth, that an Act of <hi>Parl.</hi> is not pleadable in a Court of Record, but by Record, or under the Seal. And M. <hi>Sad<g ref="char:EOLhyphen"/>ler</hi> in his Book intituled, <hi>The Rights of the Kingdom, and Cuſtoms of our Anceſtors,</hi> ſaith as much. Then much leſſe an Order of <hi>Parl.</hi> that is not recorded upon the <hi>Parl.</hi> Rolls it ſelf.</p>
+               <p>My Lord, it is not to be imagined, neither do I think, that the <hi>Parl.</hi> expecteth that their Order (the inferiour part of their pow<g ref="char:EOLhyphen"/>er, the Law, and Acts of <hi>Parl.</hi> that command Law; which is judi<g ref="char:EOLhyphen"/>cially here, as I ſaid before.</p>
+               <p>My Lord, all Acts of <hi>Parl.</hi> that are unrepealed, are their own: they are not theirs, when they diſown them by repealing; until then, they are with <hi>not otherwiſe</hi> in force, and are Law.</p>
+               <p>My Lord, A <hi>Parl.</hi> as they command Law, may be called the Wiſdom and Reaſon of the Nation.</p>
+               <p>
+                  <hi>Anno</hi> 4. <hi>Hen.</hi> 7, <hi>chap.</hi> 12. the Law is called, <hi>The policy of the Nation.</hi> Indeed it is ſo: Juſtice is the beſt policy, as I ſaid be<g ref="char:EOLhyphen"/>fore. None can demonſtrate what Juſtice is, without the Law be as the golden Mete-wand, that Sir <hi>Edw. Cook</hi> cautions Parliaments to leave all Cauſes to be meaſured by. 4 <hi>part. Inſtit. fol.</hi> 41.</p>
+               <p>Upon the queſtion of <hi>H.</hi> 8. to the Judges, <hi>Whether a man might be attainted of High-Treaſon in Parliaments, and not to call him to his Anſwer;</hi> the Judges anſwer was, <hi>That an inferiour Court could not in Law or Justice do ſo:</hi> and their opinion was, That <hi>the higher the Court is, the more just they ought to be.</hi>
+               </p>
+               <p>It is not to be ſuppoſed, that a Parliament will act contrary to their wiſdom and policy, which is the Law; or that they would have their inferiour power take place of their ſuperiour power.</p>
+               <p>Neither will the Parliament plead againſt me with their Power, no ſurely, but by Law, legally; elſe they would have nailed up my priſon-doors with armed men, and never have ſuf<g ref="char:EOLhyphen"/>fered me to come to this Bar. And if that they bad not inten<g ref="char:EOLhyphen"/>ded that I ſhould have been acquitted, they doubtleſs would have ſhewn cauſe. I know there can be no lawful cauſe of im<g ref="char:EOLhyphen"/>priſonment ſhewn againſt me.</p>
+               <pb n="11" facs="tcp:168584:6"/>
+               <p>My Lord, <hi>Job</hi>'s friends they tell <hi>Job</hi> that becauſe he was guilty in their opinion in the ſight of God, of ſin, <hi>Job.</hi> 22.4. <hi>Will he</hi> (meaning God) <hi>reprove thee for fear of thee? will he enter with thee into Judg<g ref="char:EOLhyphen"/>ment?</hi> As much as to ſay, That God would cut him off from amongſt men, becauſe he was ſinful, and God powerful. But (ſaith <hi>Job,</hi> chap. 23.3.) <hi>O that I knew where I might find him! that I might come to his ſeat! I would order my cauſe before him, and fill my mouth with argu<g ref="char:EOLhyphen"/>ments. I would know the words which he would anſwer me, and under<g ref="char:EOLhyphen"/>ſtand what he would ſay unto me. WILL HE PLEAD A<g ref="char:EOLhyphen"/>GAINST ME WITH HIS GREAT POWER? NO; but he would put ſtrength in me. There the righteous might diſpute with him,</hi> &amp;c. And Chap. 38. ver. 32. God ſaith, <hi>Gird up thy loyns like a man, for I will demand of thee,</hi> &amp;c. And herethat God that declared his pow<g ref="char:EOLhyphen"/>er and wiſdom viſibly in the creation of creatures great in magnitude, as the Leviathan; ſweet in influence, as the Pleiades; ſwiftneſſe and courage of the horſe in the day of battel; and ſo of the whole creati<g ref="char:EOLhyphen"/>on: That this great and glorious eternal God, that gave a being to all beings by one onely conception of his mind; he willed them to be, and they were; this God, pleaded with <hi>Job</hi> by and by, in Chap. 42. verſ. 4. <hi>Hear, I beſeech thee, and I will ſpeak: I will demand of thee, and declare thou unto me.</hi>
+               </p>
+               <p>My Lord, will the Parliament plead againſt me with their power. that is to ſay, what they may do? Surely they will not, but rather ſtrengthen me, by affording me the benefit of Law at this time and place: which is the utmoſt of what I do expect, and the which they ought to do: by which I ſhall arrive at my liberty, which is my right by Law, in regard there appeareth no cauſe in the one part of the Re<g ref="char:EOLhyphen"/>turn, nor lawful cauſe in the other.</p>
+               <p>My Lord, I have ſeen the copy of an Order of Parliament bearing date the 21 of <hi>November</hi> preſent, that ſaith, <hi>That</hi> John Streater <hi>be and do stand committed to the Priſon of the Gate-houſe Westminster, in order to a tryal: and that Mr. Speaker do iſſue a Warrant accordingly.</hi>
+               </p>
+               <p>Without doubt this is the Tryal intended by the Parliament here at this place, To try whether there be cauſe of impriſonment or not.</p>
+               <p>The innocent need no other Tryal.</p>
+               <p>The cauſe that is already ſhewn in the firſt part of the Return, is to be ſuppoſed true: And all the cauſe that was to be ſhewn, and none other, for that the ſecond part mentioneth no cauſe at all. And if there had been lawful cauſe ſhewn, it is not to be denied but it had bin of force.</p>
+               <pb n="12" facs="tcp:168584:7"/>
+               <p>By all which appeareth, that they intended me the benefit of the Law; which ſpeaketh this language, That <hi>the innocent ſhall be acquit<g ref="char:EOLhyphen"/>ted.</hi>
+               </p>
+               <p>My Lord, an Order of Parliament is but as the firſt thoughts of a man, by which he intendeth this or that.</p>
+               <p>
+                  <q rend="margQuotes">"An Act of Parliament, and the Law, is like the ſecond, third, and fourth thoughts of a man, wherein he altereth his firſt reſolutions for<g ref="char:EOLhyphen"/>med by his firſt thoughts, unto more ſafe and better reſolutions.</q>
+               </p>
+               <p>And it is not contradictory to himſelf at all, nor never a whit below him.</p>
+               <p>My Lord, Here are the Parliaments ſecond, third, and fourth thoughts judicially in this Court, it is Law digeſted by Councels, de<g ref="char:EOLhyphen"/>bates, time, and practiſe, into ſafety and conveniency. The which is for their honour to act by: The benfiet thereof I pray.</p>
+               <p>My Lord, The Rerum ſaith, <hi>I ſhall not be delivered but by Order of Parliament.</hi> The Order of Parliament ſaith not ſuch a word: But to be committed <hi>in order to a Tryal;</hi> at which I am.</p>
+               <p>My Lord, The Return ſaith, <hi>I ſhall be committed Priſoner to the Ghte-houſe by Order of Parliament.</hi>
+               </p>
+               <p>The Authority of Parliament, the Law judicially in this Court, hath committed me Priſoner to the Marſhal of this Court: Shall this be called a contradiction to the Order of Parliament? no, ſurely it will not ſtand ſo in the opinion of this Court.</p>
+               <p>Neither can it be called a contradiction to the Order of Parliament, if I ſhould be diſcharged of my Impriſonment; becauſe the Autho<g ref="char:EOLhyphen"/>rity of Parliament, the Law, ſaith, <hi>If there be no cauſe of Impriſonment I ſhall be diſcharged.</hi>
+               </p>
+               <p>The Law intendeth the defence of three things, in which all elſe is comprehended. They are Life, Liberty, and Eſtate.</p>
+               <p>
+                  <q rend="margQuotes">Liberty is the chief: not a Liberty to do what one liſts, either in obeying or in commanding; but a juſt preserving Liberty that ſhall be for the good of ſociety.</q>
+               </p>
+               <p>It was this that our fore-Fathers and we have contended for by Arms; and being victorious, will the Parliament deprive us of the benefit of the Law, which is the Ornament of our triumph?</p>
+               <p>No, my Lord, they have declared to the contrary that they will not.</p>
+               <pb n="13" facs="tcp:168584:7"/>
+               <p>My Lord chief Juſtice <hi>Hide</hi> is not on this Bench, who once was, and to his ſhame did deliver in effect this judgement, That <hi>for ſeverall reaſons of State, the King may do or act contrary to Law.</hi>
+               </p>
+               <p>My Lord, I have power to kill this Gentleman next me, but not by Law. So the Parliament hath power to deliver me to priſon without ſhewing cauſe, but no legal power.</p>
+               <p>It did better become Mr. Atturney-General <hi>Heath,</hi> that in his pleading for a corrupt intereſt (in the cauſe of Sir <hi>John Henin<g ref="char:EOLhyphen"/>gham</hi> and others) at this Bar to alledge, That <hi>the King may act a<g ref="char:EOLhyphen"/>bove and contrary to the Law;</hi> then Mr. Atturney-General <hi>Pri<g ref="char:EOLhyphen"/>deaux,</hi> that is to plead in the behalf of a State, that ſome ſup<g ref="char:EOLhyphen"/>poſe are laying a foundation of the Kingdom of Chriſt. If he ſhould, it would be the grandeſt inconſiſtency that poſſible could be, to what they have declared, namely, <hi>Tenderneſs of our juſt Rights and priviledges.</hi>
+               </p>
+               <p>The which Declaration hath invited a National expectation thereof; the which ſhould be a ſufficient Law to them to do no<g ref="char:EOLhyphen"/>thing that might deprive any individual, though the moſt inferior and inconſiderable part or perſon of the whoſe, unto whi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h theſe promi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es were made.</p>
+               <p>My Lord, Upon the agreement of ſharing the Roman Empire, made be<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ween <hi>Octavius Antonius,</hi> and <hi>Pompeius Sextus,</hi> it fell out, that they agreed to feaſt aboard of <hi>Pompeius</hi> his Admiral-Gally ly<g ref="char:EOLhyphen"/>ing at an Anchor off, of the head of Mount <hi>Miſena;</hi> and wh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n they were all aboard and merry, <hi>Menas</hi> the Pyrate came and whiſ<g ref="char:EOLhyphen"/>pered <hi>Pompeius</hi> in the ear, <hi>Come,</hi> ſaith he, <hi>ſhall I cut Cable, weigh Anchor, and ſet ſail, and not only make thee Lord of</hi> Sicile <hi>and</hi> Sar<g ref="char:EOLhyphen"/>dinia, <hi>but of the whoſe Empire alſo? No,</hi> ſaith noble <hi>Pompeius, I have not learned to break faith, although it were to the gain<g ref="char:EOLhyphen"/>ing of an Empire.</hi> When he had invited them to a Banquet, they ſhould not be deprived of what they expected by impriſon<g ref="char:EOLhyphen"/>ment or loſſe of their ſhares of the Empire. Such advice, and ſuch practiſes, do better become Pyrates and Theives, then per<g ref="char:EOLhyphen"/>ſons of vertue and honour: the which was in his power to have done.</p>
+               <p>My Lord, Seeing as I ſay, that the Parl. did at the firſt declare that they would be tender of our Rights and Priviledges; and
+<pb n="14" facs="tcp:168584:8"/>ſeeing it is our priviledge to have the benefit of the Law: and ſee<g ref="char:EOLhyphen"/>ing the Law ſaith. That <hi>if there ſhall be no cauſe, there ſhall be no im<g ref="char:EOLhyphen"/>priſonment:</hi> and in regard there is no cauſe ſhown why I ſhould be a priſoner; I do aver, that the <hi>Parliament</hi> cannot have greater diſ<g ref="char:EOLhyphen"/>honour put upon them, then for any one to alleadge that they in<g ref="char:EOLhyphen"/>tended impriſonment to me, if there ſhould no cauſe in Law ap<g ref="char:EOLhyphen"/>pear.</p>
+               <p>My Lord, If there be any thing elſe alleadged to be againſt me, then what appeareth upon the Return and the Record, the Law re<g ref="char:EOLhyphen"/>quireth you not to take notice of it.</p>
+               <p>And ſeeing there is no cauſe, there ought to be no impriſon<g ref="char:EOLhyphen"/>ment: if it ſhould, it would be injuſtice.</p>
+               <p>Juſtice is one of the attributes of God, that by his diſpenſations he would have adminiſtred to men.</p>
+               <p>The adminiſtration of injuſtice, is a perfect fighting againſt God.</p>
+               <p>I believe the <hi>Parliament</hi> would not be found fighters againſt God.</p>
+               <p>My Lord, The <hi>Philoſopher</hi> ſaith, <hi>Where juſt Law ruleth, there God may be ſaid to rule.</hi>
+               </p>
+               <p>If you judge juſtly, you have no cauſe to fear. I expect it, as you will anſwer the contrary at the dreadful day of judgment.</p>
+               <p>The Reader is to take notice, that the Priſoner acknowledged their power as a Parliament, elfe his Plea had not bin allowed.</p>
+               <p>Notwithſtanding this which the priſoner urged, and his Coun<g ref="char:EOLhyphen"/>cel, he was again committed priſoner to the Gate-houſe: after which, as was ſaid before, the Little Aſſembly being diſſolved, the priſoner brought his <hi>Habeas Corpus</hi> again in <hi>Hillary</hi> Term; at which time he appeared at the Bar eleven times himſelf, &amp; Coun<g ref="char:EOLhyphen"/>cel pleading, too large here to be recited; only the paſſages of the laſt day as followeth:</p>
+               <p>Mr. Attorney-General <hi>Prideaux</hi> began thus:</p>
+               <p>
+                  <hi>My Lord,</hi> This Gentleman the priſoner, ſtands committed by Order of Parliament; And whereas he himſelf &amp; the Counſel aſ<g ref="char:EOLhyphen"/>ſigned for him have alleaged, That the Order of Parliament is void, by reaſon (as they ſay) the Parliament is diſſolved:</p>
+               <p>
+                  <hi>My Lord,</hi> Parliaments cannot be diſſolved: the Parliament or the ſame power is in being now. And Parliaments were to be once a year, as by the Statute of the 4 of <hi>Ed.</hi> 3. at which time he may be relieved. In the North parts, the Aſſizes can be held but once ayear.</p>
+               <p>But grant that the meaning of the Parliament was to deliver
+<pb n="15" facs="tcp:168584:8"/>him themſelves, and not that they meant the Parliament to be on the 3 of <hi>September</hi> 1654. yet for that they ordered that he ſhould not be delivered but by Order of Parliament, I conceive he can be delivered no otherwiſe then by an Order of Parliament, nor by any other but a Parliament.</p>
+               <p>Poſſibly when that the Parliament conſiſted of King, Lords, and Commons, an Order of one or two Houſes, without a threefold conſent, had not been binding: but now the power that was in the Lords and King, are joyned in the Commons, and therefore is of greater force.</p>
+               <p>And it is not material whether they ſhew cauſe, or not: there may be good cauſe: And it cannot be preſumed that the Parlia<g ref="char:EOLhyphen"/>ment would commit a man, and have no cauſe at all for ſo doing. But without queſtion, a Parliament may commit men, and ſhew no cauſe.</p>
+               <p>But ſuppoſe his Commitment be in order to a Tryal in <hi>Parlia<g ref="char:EOLhyphen"/>ment;</hi> will this Court take upon them to judge in the cauſe? or can they by <hi>Habeas Corpus</hi> bring the body of the priſoner and the cauſe before them, out of <hi>Parliament?</hi>
+               </p>
+               <p>The Lord of <hi>Strafford</hi> was tryed in <hi>Parliament:</hi> I believe this Court would not in ſuch a Caſe remove the Tryal before them, nor indeed can they. Upon the Return it appeareth, he is committed by Order of <hi>Parliament,</hi> and to be delivered by Order of <hi>Parlia<g ref="char:EOLhyphen"/>ment:</hi> if they had intended he ſhould have been delivered other<g ref="char:EOLhyphen"/>wiſe, they would have either ſaid nothing, or have Ordered his delivery according to Law.</p>
+               <p>When Kings die, it is true, that Commiſſions do ceaſe: but when <hi>Parliaments</hi> do diſſolve, their Acts do not ceaſe. Beſides, a <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> is the Supreme Court, and they do conſtitute other Courts; and therefore it is not for other Courts to queſtion the proceed<g ref="char:EOLhyphen"/>ings of a <hi>Parliament.</hi>
+               </p>
+               <p>It will not be expected of me to ſhew that the <hi>Parliament</hi> had ſufficient matter or cauſe of impriſonment.</p>
+               <p>To this the Judges anſwered, No, no: if he had any thing more to ſpeak to the Order of <hi>Parliament,</hi> that was it that was to be ſpo<g ref="char:EOLhyphen"/>ken unto.</p>
+               <p>
+                  <hi>Mr. Attor.</hi> My Lord, this Gentleman might make his applica<g ref="char:EOLhyphen"/>tion for his liberty to the preſent Authority elſewhere; and I doubt not but it would be granted him; for now <hi>Parliamentary</hi> authority is in one perſon.</p>
+               <pb n="16" facs="tcp:168584:9"/>
+               <p>My Lord, I doubt not but the Court will be cautious in med<g ref="char:EOLhyphen"/>ling in this caſe, but it will rather remand him to priſon; firſt, for that it may be that the proceedings againſt him are not yet ripe: it may be yet under examination. Secondly, for that this is the firſt preſident of the like nature, and it being of ſo great and high con<g ref="char:EOLhyphen"/>cernment.</p>
+               <p>After a little ſpace of time, Mr. <hi>Atturney</hi> cometh into the Court.</p>
+               <p>Lord chief Juſtice <hi>Rolle.</hi> Mr. <hi>Atturney,</hi> here is Mr. <hi>Streater</hi> again by Rule of Court; he hath been a long time in priſon, and I ſee here is nothing come againſt him that is mate<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ial,</p>
+               <p>Mr. Serj. <hi>Twiſden, of counſel for the priſoner.</hi> My Lord, we deſire that he may be bayled.</p>
+               <p>Lord chief Juſtice <hi>Rolle.</hi> What have you any thing more to ſay, Mr. <hi>Atturney?</hi>
+               </p>
+               <p>Mr. <hi>Attur.</hi> My Lord, I thought I ſhould have heard of him, but I did not: the Court muſt do juſtice. He is committed by order of <hi>Parliament.</hi>
+               </p>
+               <p>My Lord, if you will undo an Order of <hi>Parliament,</hi> he is to be delivered: but I hope the Court will not.</p>
+               <p>M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Windham.</hi> The Order of <hi>Parliament</hi> is undone by the <hi>Par<g ref="char:EOLhyphen"/>liaments</hi> being diſſolved.</p>
+               <p>Mr. <hi>Attur.</hi> Commiſſioners of Sewers are granted by <hi>Parliament,</hi> and they do continue after the <hi>Parliament</hi> is diſſolved, Iayl-delive<g ref="char:EOLhyphen"/>ry is but once a year in the North parts; and I ſuppoſe the next <hi>Par<g ref="char:EOLhyphen"/>liament</hi> wil be ſitting, before he hath been a year in priſon at which time he may be tryed or delivered. And although this be called an Order of <hi>Parliament,</hi> yet it was acted by <hi>Parliament.</hi>
+               </p>
+               <p>Lord chief Iuſtice <hi>Rolle.</hi> But all that the <hi>Parliament</hi> acteth, are not Acts of Parliament.</p>
+               <p>The firſt part of the Return is too general, it mentioneth norwhat Books, nor whoſe Books, or where they were, or when publiſhed.</p>
+               <p>The ſecond part of the Return is grounded upon an Order of Par<g ref="char:EOLhyphen"/>liament: we are to take notice when a Parliament ſitteth, and alſo when it is diſſolved; or when it endeth, or determineth. Diſconti<g ref="char:EOLhyphen"/>nuance is a determination.</p>
+               <p>A Writ of Error many times is made Returnable in the next Parliament; but that lyeth after Tryal at Law. The word Order is a proper <hi>phraſe</hi> to that which is not an Act. An Order of Parliament is not binding in Succeſſion: How ſhall the next Parliament take
+<pb n="17" facs="tcp:168584:9"/>notice of a former Parliaments Order? Committees that are ap<g ref="char:EOLhyphen"/>pointed by Order of Parliament do ceaſe upon the diſſolving of the Parliament. I have been of the Parliament; I ever found Parlia<g ref="char:EOLhyphen"/>ments of the ſame Opinion. We muſt look to the firſt Impri<g ref="char:EOLhyphen"/>ſonment, and no farther: if you had Returned other Cauſe, we ſhould have taken notice of it. We do not reverſe the Order of Parliament; that is reverſed by the Parliaments being diſſolved; and it being diſſolved, there is no viſible way how the priſoner ſhall be relieved: though there may be a probable way.</p>
+               <p>Iudg <hi>Ask.</hi> I am of the ſame Opinion, and that it could not be, that the Order of Parliament, by ſaying he ſhould not be delivered but by Order of Parliament, but that they meant by the ſame Par<g ref="char:EOLhyphen"/>liament, and not by a Succeſſive Parliament. If it ſhould be taken to be by Order of the next Parliament, where ſhall be the Liberty of the Subjects? or how they ſhall be relieved in long interval of parliaments? as in the Reign of K. <hi>Iames,</hi> and the Reign of King <hi>Charls,</hi> we had not parliaments in many years together: &amp; although it be ſo that the parliament by the Statute of the 4. of <hi>Ed.</hi> 3. ſhould be once a year, or oftner, if need be: beſides, here is no Succeſſion of parliament, but a Diſſolution. Another parliament muſt be ano<g ref="char:EOLhyphen"/>ther Seſſion, and therefore an Order cannot be in force until ano<g ref="char:EOLhyphen"/>ther Seſſion. If they had made an Act of parliament, or paſſed a judgment of parliament, it had been another Caſe.</p>
+               <p>Upon the conſideration of the whole matter, the Iudges opinion was, that the priſoner ought to be diſcharged, and this Rule en<g ref="char:EOLhyphen"/>tred.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="discharge">
+                           <head>Saturday next after 8 days of the <hi>Purif.</hi> 1653.</head>
+                           <p>
+                              <label>The Lord Protector againſt <hi>Io. Streater,</hi> Gent.</label> 
+                              <hi>The Defendant was brought into Court by the Marſhal upon</hi> Habeas Corpus, <hi>and by the Court diſcharged of his im<g ref="char:EOLhyphen"/>priſonment by the motion of Mr. Ser<g ref="char:EOLhyphen"/>jeant</hi> Twiſden.</p>
+                           <p>By the Court. As may be ſeen, <hi>Styles</hi> Reports, <hi>fol.</hi> 415.</p>
+                           <p>Lord cheif Juſtice <hi>Rolle.</hi> Sir, you will do well to carry your ſelf conformably to th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> preſent Power, and walk inoffenſively.</p>
+                           <p>Mr. <hi>Streater.</hi> My Lord, I ever have been, and I hope ſhall be, a Subject to Government, ſo as the Law requireth me to be: It is not my duty to be otherwiſe ſubject.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <pb n="18" facs="tcp:168584:10"/>
+               <p>In Eaſter Term following, the Priſoner was diſcharged of his Bail. About ſix weeks after, the Late Protector ſent ſix files of Muſqueteers, they in compaſſed his houſe near High-gate; but he having notice of it by one of the Protector's Councel's Letter to him, did eſcape and hid himſelf for 4 Months in private, in which time he ſent a Letter to the Protector, wherein he deſired to know, what was the reaſon of his ſo violent proſecuting of him: no anſwer could be obtained. In the Interim of which time, a Miniſter of <hi>London,</hi> a friend to J. S. and one intimate with the Protector, repayreth to him, to mediate for J. S. who knew nothing at all of his proceedings herein: He deſired the Protector to deſiſt from proſecuting of him; Told him that he was but a diſſatisfied friend, &amp; that he was confident that nothing was in his deſignes but publick good, and that ſuch dealings would but make him ſtand at a greater diſtance: To which the Protector anſwered, that he would have him dead or alive, unleſs he would come &amp; ſubmit himſelf to him, or elſe that he would go in the Weſt-Indies Expedition; the which if he would, he ſhould be well provided for. J. S. his friend acquainted him with what paſſed, and preſſed him to comply in both of the aforementioned particulars; but could not prevail, for that <hi>J. S.</hi> in the firſt place was reſolved not to truſt to his Mercy; nor, in the ſecond place to go into his Sink, <hi>Jamaica;</hi> where he would have been glad to ſend all Aſſertors of the <hi>Good Old Cauſe,</hi> that he might never have had his Conſcience grated with the reading of ſuch pieces as his piece of the Obſervations upon <hi>Ariſtotle</hi>'s Politicks, for which <hi>J. S.</hi> was this time proſecuted vigorouſly: In which diſcourſe, the Excellency of a free State was maintained, and the Inconveniences of a Tyranny, or Single Perſon, were fully de<g ref="char:EOLhyphen"/>monſtrated. At the end of the aforementioned 4. Months pri<g ref="char:EOLhyphen"/>vate and voluntary Impriſonment, for the ſecurity of his Perſon, he bethought of writing to General <hi>Diſborow;</hi> who with much Civility and Courteſy anſwered, his Letters prevailed ſo with the Protector, that if <hi>J. S.</hi> would promiſe not to write or publiſh any more books, to the prejudice of the then Government, he ſhould live quietly and undiſturbed: General <hi>Diſborow</hi> ſent to him notice hereof, withall deſiring that he would come to ſpeak with him; promiſing by the Meſſenger he ſhould come and go ſafely. Accordingly at <hi>Kenſington</hi> J. <hi>S.</hi> waited upon him, where he promiſed not to write any more againſt that power; (his private
+<pb n="19" facs="tcp:168584:10"/>Reaſon was, becauſe he ſaw all people ſit quiet under the Pow<g ref="char:EOLhyphen"/>er, not reſiſting, and therefore it was in vain to continue writing, or further oppoſing the Corruptions of thoſe Times,) and General <hi>Disborow</hi> promiſed he ſhould be proſecuted no more: But ſo it was, that one moneth after in <hi>November</hi> 1654, again the ſecond time the Protector ſent a Squadron of Horſe to his Houſe near <hi>High-gate,</hi> by them he was taken out of his bed at one of the clock in the morning, and brought to the <hi>White-Hart</hi> at <hi>Chering-Croſſe:</hi> At day break, <hi>J. S.</hi> ſent to Gen. <hi>Disborow,</hi> and acquainted him, That contrary to his promiſe, he was taken priſoner again. Immediately the General went to the Protector, to know the rea<g ref="char:EOLhyphen"/>ſon thereof, being confident that <hi>J. S.</hi> would not break his word. The Protector told him, That he had been diſcourſing with ſome Parliament-men of matters of dangerous Conſequence at ſuch a time and place. Worthy Gen. <hi>Disborow</hi> did acquaint Mr. <hi>Strea<g ref="char:EOLhyphen"/>ter</hi> of all that he could learn touching that matter; and ſent a com<g ref="char:EOLhyphen"/>mand to the Guard that was over him, to bring him to <hi>Suffolk<g ref="char:punc">▪</g>
+                  </hi> houſe, where the General diſcourſed the whole matter to him; and withall told him, That Mr. <hi>Thurlow</hi> the Secretary was the In<g ref="char:EOLhyphen"/>ſtrument of his Trouble. To which <hi>J. S.</hi> replyed, That he did remember the Diſcourſe every word, and repeated the ſubſtance thereof to him; withall told him, He would write it down, and leave it to any to judge, whether it would amount to the deſert of a Reſtraint. General <hi>Disborow</hi> approved of ſo doing; and accord<g ref="char:EOLhyphen"/>ingly he did it, being to this purpoſe, <hi>viz.</hi> That being asked, Whe<g ref="char:EOLhyphen"/>ther one might lawfully ſign the <hi>Recognition</hi> before he Entred the Houſe, and afterward oppoſe the ſame thing? <hi>J. S.</hi> Returned an<g ref="char:EOLhyphen"/>ſwer, One might: And gave firſt this for a Reaſon, That it did contain theſe words, <hi>To be true to the lawfull power of the Protector:</hi> of the which he knew not any that he had; and therefore the Ob<g ref="char:EOLhyphen"/>ligation was void, becauſe that unto which he engaged had no be<g ref="char:EOLhyphen"/>ing. He further Illuſtrated it, both by the Opinion of divers Ca<g ref="char:EOLhyphen"/>ſuiſts, and Civilians.</p>
+               <p>A Second Reaſon was, That if he could diſpence with it in point of Conſcience, it would conſiſt well with Prudence, for good minded men Not to ſcruple the ſigning thereof; for that thereby they were kept or ſifted out, from whom good was to be expected; and though they could not do the Good they ought, yet they might prevent much Evill, and be in a readineſs to attend the op<g ref="char:EOLhyphen"/>portunity that providence might offer, to accompliſh the Good they ought to do.</p>
+               <pb n="20" facs="tcp:168584:11"/>
+               <p>A Third Reaſon was, from the Example of our fore<g ref="char:EOLhyphen"/>fathers, who did ſwear to be true to the King, and ſubject to the known Lawes; yet ſo ſoon as they came into the Houſe, they Treated of the Alteration of ſeveral Lawes: the which they could not do, if they took the Oath in any other capacity then as private men: For an Oath is not lawful to be taken, that ſhould bind private perſons in any thing that is contrary to the Judgment and Opi<g ref="char:EOLhyphen"/>nion of a Councel of Legiſlators.</p>
+               <p>Another Queſtion was askt <hi>J. S.</hi> What were the ſigns of a weak State? He anſwered, That they were pur<g ref="char:EOLhyphen"/>blind in their Counſels, that they could not ſee, one year to an end, what the Effects of their Reſolutions would be; which begot uncertainty, and Changes in Govern<g ref="char:EOLhyphen"/>ment. The Remainder of the dangerous diſcourſe be<g ref="char:EOLhyphen"/>fore mentioned, was about what Opinions in Religion were fitteſt to be promoted, and will beſt ſuit with Mo<g ref="char:EOLhyphen"/>narchies or Tyrannies? and what with Ariſtocracies? and what with Oligarchies? and what with Demo<g ref="char:EOLhyphen"/>cracies? Together with the Neceſſitie of promoting and encouraging Religion, if it were for no other End, (the which God forbid) than to make people eaſie to be governed: If it be taken away, they cannot be Go<g ref="char:EOLhyphen"/>verned. Therefore the Heathens Inſtitute Religion, and give Divine Honour to Stocks and Stones. This being the ſubſtance of what <hi>J. S.</hi> writ at large, and ſent it to General <hi>Disborow,</hi> who immediately procured his In<g ref="char:EOLhyphen"/>largement, and ſtood between him and his Enemies, prevented all future Trouble coming upon him, with much Care and Readineſs. Theſe troubles continuing two Years after the day of the Interruption of this Seſ<g ref="char:EOLhyphen"/>ſion of Parliament, to his Damage and Expence many Hundred pound.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
